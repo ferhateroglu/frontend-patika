@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    color: red;
+    text-align: center;
+}
+
+nav ul{
+    padding: 0;
+    text-align: center;
+}
+
+nav li{
+    font-size: 20px;
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+}
+
+article{
+    text-align: center;
+    font-size: large;
+}
+article ul{
+    display: inline-block;
+    margin: auto;
+}
+article ol{
+    display: inline-block;
+    margin: auto;
+}
+
+article ol img{
+    height: 400px;
+    width: auto;
+}
+
+.hakkimizda{
+    margin-left: 10px;
+    text-align: left;
+    font-size: 20px;
+}
+
+h2{
+    color: purple;
+    font-size: 25px;
+}
+
+.yellow{
+    color: darkgoldenrod;
+}
+
