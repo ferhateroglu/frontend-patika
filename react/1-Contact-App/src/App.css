@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.list{
+  margin: 15px 0;
+}
+
+.list > li{
+  background-color: antiquewhite;
+  padding: 5px;
+  margin-bottom: 2px;
+}
